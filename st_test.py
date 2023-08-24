@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.svm import SVC
 import pickle
 
 st.title("Bank loan approval predictor")
